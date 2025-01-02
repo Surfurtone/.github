@@ -269,6 +269,7 @@
 
 ### 영상
 
+https://github.com/user-attachments/assets/3210397c-ddc9-4e4d-a4a2-a28e48bc3eec
 
 ## 개발 기간 및 참가 프로그램
 `2024.08.19.(월) ~ 08.20.(화)`
