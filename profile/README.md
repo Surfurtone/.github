@@ -118,7 +118,7 @@
 |권혁원|김한나|김민수|정그린|김재형|
 |:-:|:-:|:-:|:-:|:-:|
 |[@ambition-kwon](https://github.com/ambition-kwon)|[@khanna01](https://github.com/khanna01)|[@kimminsu31415](https://github.com/kimminsu31415)|[@Green-JEONG](https://github.com/Green-JEONG)|[@21divcert](https://github.com/21divcert)|
-|<img src="https://avatars.githubusercontent.com/u/5442985?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/79962121?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/83346782?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/139318504?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128115881?v=4" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/5442985?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/79962121?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/83346782?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/139318504?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/128115881?v=4" width="100" height="100"/>|
 |Project Manager & Designer|Front-end Developer|Front-end Developer & Designer|Front-end Developer|Back-end Developer|
 
 ## 시연
