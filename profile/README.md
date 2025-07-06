@@ -392,7 +392,13 @@
 ### 시연 영상
 https://github.com/user-attachments/assets/3210397c-ddc9-4e4d-a4a2-a28e48bc3eec
 
-## 개발 기간 및 참가 프로그램
+<details>
+<summary><strong>📆 참가 프로그램</strong></summary>
+
+<br>
+
 `2024.08.19.(월) ~ 08.20.(화)`
 
 <img src="https://github.com/user-attachments/assets/15179a0b-82ab-4a76-a9c3-798bc63d0f66" width="500" height="700" alt="Surfthon"/>
+
+</details>
